@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 17)
 include_directories(.)
 include_directories(ListNode)
 
-add_executable(DataStructure main.cpp)
+add_executable(DataStructure main.cpp ListNode/ListNode.h ListNode/reverseList.h ListNode/removeNthFromEnd.h)
