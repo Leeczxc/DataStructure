@@ -52,7 +52,7 @@ build cmake_object_order_depends_target_DataStructure: phony || CMakeFiles/DataS
 build CMakeFiles/DataStructure.dir/main.cpp.obj: CXX_COMPILER__DataStructure_Debug D$:/CPP_Project/DataStructure/main.cpp || cmake_object_order_depends_target_DataStructure
   DEP_FILE = CMakeFiles\DataStructure.dir\main.cpp.obj.d
   FLAGS = -g
-  INCLUDES = -ID:/CPP_Project/DataStructure/. -ID:/CPP_Project/DataStructure/ListNode
+  INCLUDES = -ID:/CPP_Project/DataStructure/. -ID:/CPP_Project/DataStructure/ListNode -ID:/CPP_Project/DataStructure/StackAndQueue
   OBJECT_DIR = CMakeFiles\DataStructure.dir
   OBJECT_FILE_DIR = CMakeFiles\DataStructure.dir
 

@@ -28,7 +28,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 9,
+				"line" : 10,
 				"parent" : 0
 			},
 			{
@@ -41,6 +41,12 @@
 				"command" : 1,
 				"file" : 0,
 				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 8,
 				"parent" : 0
 			}
 		]
@@ -63,6 +69,10 @@
 				{
 					"backtrace" : 3,
 					"path" : "D:/CPP_Project/DataStructure/ListNode"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "D:/CPP_Project/DataStructure/StackAndQueue"
 				}
 			],
 			"language" : "CXX",
@@ -120,9 +130,7 @@
 			"name" : "Header Files",
 			"sourceIndexes" : 
 			[
-				1,
-				2,
-				3
+				1
 			]
 		}
 	],
@@ -136,17 +144,7 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "ListNode/ListNode.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"path" : "ListNode/reverseList.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"path" : "ListNode/removeNthFromEnd.h",
+			"path" : "StackAndQueue/maxSliding239.h",
 			"sourceGroupIndex" : 1
 		}
 	],
